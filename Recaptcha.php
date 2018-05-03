@@ -37,8 +37,6 @@
  * THE SOFTWARE.
  */
 
-namespace csTelegram;
-
 class Recaptcha extends \Phalcon\DI\Injectable
 {
     /**
